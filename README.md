@@ -1,5 +1,33 @@
 # Java_Basic_Codes_by_SURBHI
 
+
+
+package com.google;
+
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+        {
+            System.out.println("Hi, This is my first selenium automation project with firefox browser!");
+        }
+        FirefoxDriver
+    }
+}
+
+package com.testselenium;
+
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+        System.out.println("Hi");
+    }
+}
+
+
+
+
 package com.google;
 
 import java.util.Scanner;
